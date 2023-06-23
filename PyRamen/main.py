@@ -71,7 +71,7 @@ for row in sales:
 print(report)
 ## T.A. Justine Cho helped me nest the loop (for row in menu) to the loop for row in sales.
 
-# Create a text file to hold Financial Analysis results
+# Create a text file to hold results
 # Set the output file path
 ramen_results_path = 'ramen_results.txt'
 
