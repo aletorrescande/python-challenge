@@ -9,3 +9,6 @@ First one analyzes the financial records of a company, it calculates:
 4) Greatest decrease in losses over the period evaluated
 
 Second one analyses business's per product performance by cross-referencing sales data with internal menu data to calculate revenues and costs for the year.
+
+Libraries used where:
+Pathlib and csv
